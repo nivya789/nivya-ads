@@ -7,8 +7,8 @@
 
 ## Introduction
 <p>
-  Predicting stock prices is a cumbersome task as it does not follow any specific pattern. Changes in the stock prices are purely based on supply and demand during a period of time. In order to learn the specific characteristics of a stock price, we can use algorithm to identify these patterns through machine learning. One of the most well-known networks for series forecasting is LSTM (long short-term memory) which is a Recurrent Neural Network (RNN) that is able to remember information over a long period of time, thus making them extremely useful for predicting stock prices. RNNs are well-suited to time series data and they are able to process the data step-by-step, maintaining an internal state where they cache the information they have seen so far in a summarised version. The successful prediction of a stock's future price could yield a significant profit.
-</p>
+ ## proplem defination The problem is to build a predictive model that forecasts stock prices based on historical market data. The goal is to create a tool that assists investors in making well-informed decisions and optimizing their investment strategies. This project involves data collection, data preprocessing, feature engineering, model selection, training, and evaluation! [Uploading image.png…]()(http![image]s://github.com/nivya.ev@vvcet.ac.in/ADS_phase1/assets/145847480/e34e69bc-7fdd-45a3-b42c-e6767037c59f)
+
 
 ## Aim
 <p> 
